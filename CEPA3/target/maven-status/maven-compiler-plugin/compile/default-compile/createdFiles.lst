@@ -1,0 +1,10 @@
+Model\Author_Books.class
+DAO\Author_BooksDAO.class
+Model\Author.class
+Model\Books.class
+ORM\HibernateUtil.class
+Model\AuthorDetails.class
+com\ieseljust\cepa3\CEPA3.class
+DAO\AuthorDAO.class
+DAO\BooksDAO.class
+DAO\AuthorDetailsDAO.class
